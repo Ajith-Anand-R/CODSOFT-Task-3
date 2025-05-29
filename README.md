@@ -14,7 +14,7 @@ This is a simple console-based ATM application written in Java. It simulates bas
 ## Setup & Running
 1. **Navigate to the project directory:**
    ```sh
-   cd Task-2/Task-2
+   cd Task-3/Task-3
    ```
 2. **Compile all Java files:**
    ```sh
